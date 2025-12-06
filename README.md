@@ -49,8 +49,15 @@ Each book contains the following fields:
 Base URL:
 http://localhost:4000
 
+
+
+## 📸 API Screenshots
+
+
+
 ### Get all books
 GET /api/books
+![Get all books](screenshots/postman-get-books.png)
 
 ### Get a single book by ID
 GET /api/books/:id
